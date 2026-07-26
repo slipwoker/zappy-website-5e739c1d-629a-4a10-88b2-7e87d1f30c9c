@@ -1,0 +1,109 @@
+# הכל מהכל — Generative Engine Optimization Map
+
+> A large multi-category e-commerce store offering a wide range of products for the whole family and home. The store covers diverse categories including home goods, women's, men's and children's clothing, footwear, automotive accessories, and jewelry. It targets a broad audience across all age groups and genders, positioning itself as a one-stop shop for everyday needs.
+
+---
+
+## Pages
+
+### בית
+https://-5e739c1d.zappy5.app
+גלו חנות אונליין ענקית עם מוצרים לבית, אופנה, רכב ותכשיטים. חוויית קנייה נוחה ומשתלמת לכל גיל במחירים שווים במיוחד. היכנסו עכשיו!
+
+### חוויית קנייה משפחתית
+https://-5e739c1d.zappy5.app/family-shopping-experience
+חוויית קנייה משפחתית מושלמת: ביגוד, נעליים, אביזרים ומוצרים לבית במקום אחד. פשטות, נוחות ומחירים שכל המשפחה תאהב. כנסו וגלו עולם של מוצרים!
+
+### רעיונות למתנות
+https://-5e739c1d.zappy5.app/gift-ideas
+מחפשים רעיון למתנה מושלמת? מאות הצעות מקוריות לבית, אופנה, תכשיטים ועוד. התאמה אישית לכל גיל וסגנון במחירים נוחים. גלו את המתנה הבאה שלכם!
+
+### אודות
+https://-5e739c1d.zappy5.app/about
+הכירו את החזון של &#39;הכל מהכל&#39; – חנות אונליין מובילה שמציעה מגוון ענק של מוצרים לבית, אופנה ועוד. מחויבות לאיכות, שירות ומחירים הוגנים. קראו עוד עלינו!
+
+### צור קשר
+https://-5e739c1d.zappy5.app/contact
+יש שאלות על מוצרים, משלוחים או הזמנות? צרו קשר עם צוות &#39;הכל מהכל&#39; ונשמח לעזור. שירות אישי, מהיר ואדיב לכל לקוח. פנו אלינו עוד היום!
+
+### Products
+https://-5e739c1d.zappy5.app/products
+המוצרים שלנו - הכל מהכל
+
+### Cart
+https://-5e739c1d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-5e739c1d.zappy5.app/checkout
+תשלום
+
+### Login
+https://-5e739c1d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-5e739c1d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-5e739c1d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-5e739c1d.zappy5.app/product/:slug
+פרטי המוצר - הכל מהכל
+
+### Category
+https://-5e739c1d.zappy5.app/category/:slug
+מוצרים - הכל מהכל
+
+### תודה רבה - הכל מהכל
+https://-5e739c1d.zappy5.app/thank-you
+תודה שפניתם אלינו! ההודעה שלכם התקבלה בהצלחה ב-הכל מהכל, פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5e739c1d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5e739c1d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5e739c1d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הכל מהכל
+A large multi-category e-commerce store offering a wide range of products for the whole family and home. The store covers diverse categories including home goods, women's, men's and children's clothing, footwear, automotive accessories, and jewelry. It targets a broad audience across all age groups and genders, positioning itself as a one-stop shop for everyday needs.
+
+## Target Audience
+- גברים, נשים וילדים - כל המשפחה
+- קונים משפחתיים
+- מחפשי מתנות
+- סטודנטים עם תקציב מוגבל
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5e739c1d.zappy5.app/sitemap.xml
+- Robots: https://-5e739c1d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5e739c1d.zappy5.app/llms-full.txt
+- Products (JSON): https://-5e739c1d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-5e739c1d.zappy5.app/product-feed.xml
