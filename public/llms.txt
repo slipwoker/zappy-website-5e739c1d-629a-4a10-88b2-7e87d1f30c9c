@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-5e739c1d.zappy5.app
+https://example.com
 גלו חנות אונליין ענקית עם מוצרים לבית, אופנה, רכב ותכשיטים. חוויית קנייה נוחה ומשתלמת לכל גיל במחירים שווים במיוחד. היכנסו עכשיו!
 
 ### חוויית קנייה משפחתית
-https://-5e739c1d.zappy5.app/family-shopping-experience
+https://example.com/family-shopping-experience
 חוויית קנייה משפחתית מושלמת: ביגוד, נעליים, אביזרים ומוצרים לבית במקום אחד. פשטות, נוחות ומחירים שכל המשפחה תאהב. כנסו וגלו עולם של מוצרים!
 
 ### רעיונות למתנות
-https://-5e739c1d.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 מחפשים רעיון למתנה מושלמת? מאות הצעות מקוריות לבית, אופנה, תכשיטים ועוד. התאמה אישית לכל גיל וסגנון במחירים נוחים. גלו את המתנה הבאה שלכם!
 
 ### אודות
-https://-5e739c1d.zappy5.app/about
+https://example.com/about
 הכירו את החזון של &#39;הכל מהכל&#39; – חנות אונליין מובילה שמציעה מגוון ענק של מוצרים לבית, אופנה ועוד. מחויבות לאיכות, שירות ומחירים הוגנים. קראו עוד עלינו!
 
 ### צור קשר
-https://-5e739c1d.zappy5.app/contact
+https://example.com/contact
 יש שאלות על מוצרים, משלוחים או הזמנות? צרו קשר עם צוות &#39;הכל מהכל&#39; ונשמח לעזור. שירות אישי, מהיר ואדיב לכל לקוח. פנו אלינו עוד היום!
 
 ### Products
-https://-5e739c1d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - הכל מהכל
 
 ### Cart
-https://-5e739c1d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-5e739c1d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-5e739c1d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-5e739c1d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-5e739c1d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-5e739c1d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - הכל מהכל
 
 ### Category
-https://-5e739c1d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - הכל מהכל
 
 ### תודה רבה - הכל מהכל
-https://-5e739c1d.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפניתם אלינו! ההודעה שלכם התקבלה בהצלחה ב-הכל מהכל, פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5e739c1d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5e739c1d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5e739c1d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5e739c1d.zappy5.app/sitemap.xml
-- Robots: https://-5e739c1d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5e739c1d.zappy5.app/llms-full.txt
-- Products (JSON): https://-5e739c1d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-5e739c1d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

@@ -2,13 +2,13 @@
 
 A large multi-category e-commerce store offering a wide range of products for the whole family and home. The store covers diverse categories including home goods, women's, men's and children's clothing, footwear, automotive accessories, and jewelry. It targets a broad audience across all age groups and genders, positioning itself as a one-stop shop for everyday needs.
 
-Source: https://-5e739c1d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## קנייה חכמה לכל המשפחה במחירים שווים — הכל מהכל
 
-URL: https://-5e739c1d.zappy5.app
+URL: https://example.com
 Description: גלו חנות אונליין ענקית עם מוצרים לבית, אופנה, רכב ותכשיטים. חוויית קנייה נוחה ומשתלמת לכל גיל במחירים שווים במיוחד. היכנסו עכשיו!
 
 קנייה חכמה לכל המשפחה במחירים שווים — הכל מהכל
@@ -576,7 +576,7 @@ Description: גלו חנות אונליין ענקית עם מוצרים לבי�
 
 ## הפכו כל קנייה להרפתקה משפחתית כיפית — הכל מהכל
 
-URL: https://-5e739c1d.zappy5.app/family-shopping-experience
+URL: https://example.com/family-shopping-experience
 Description: חוויית קנייה משפחתית מושלמת: ביגוד, נעליים, אביזרים ומוצרים לבית במקום אחד. פשטות, נוחות ומחירים שכל המשפחה תאהב. כנסו וגלו עולם של מוצרים!
 
 הפכו כל קנייה להרפתקה משפחתית כיפית — הכל מהכל
@@ -1038,7 +1038,7 @@ Description: חוויית קנייה משפחתית מושלמת: ביגוד, נ
 
 ## מתנות מקוריות שכולם יאהבו – מצאו עכשיו — הכל מהכל
 
-URL: https://-5e739c1d.zappy5.app/gift-ideas
+URL: https://example.com/gift-ideas
 Description: מחפשים רעיון למתנה מושלמת? מאות הצעות מקוריות לבית, אופנה, תכשיטים ועוד. התאמה אישית לכל גיל וסגנון במחירים נוחים. גלו את המתנה הבאה שלכם!
 
 מתנות מקוריות שכולם יאהבו – מצאו עכשיו — הכל מהכל
@@ -1500,7 +1500,7 @@ Description: מחפשים רעיון למתנה מושלמת? מאות הצעו�
 
 ## הסיפור מאחורי החנות שכולם מדברים עליה — הכל מהכל
 
-URL: https://-5e739c1d.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את החזון של &#39;הכל מהכל&#39; – חנות אונליין מובילה שמציעה מגוון ענק של מוצרים לבית, אופנה ועוד. מחויבות לאיכות, שירות ומחירים הוגנים. קראו עוד עלינו!
 
 הסיפור מאחורי החנות שכולם מדברים עליה — הכל מהכל
@@ -1938,7 +1938,7 @@ Description: הכירו את החזון של &#39;הכל מהכל&#39; – חנ�
 
 ## דברו איתנו – אנחנו כאן בשבילכם תמיד — הכל מהכל
 
-URL: https://-5e739c1d.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלות על מוצרים, משלוחים או הזמנות? צרו קשר עם צוות &#39;הכל מהכל&#39; ונשמח לעזור. שירות אישי, מהיר ואדיב לכל לקוח. פנו אלינו עוד היום!
 
 דברו איתנו – אנחנו כאן בשבילכם תמיד — הכל מהכל
@@ -2374,7 +2374,7 @@ Description: יש שאלות על מוצרים, משלוחים או הזמנות
 
 ## מוצרים
 
-URL: https://-5e739c1d.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - הכל מהכל
 
 מוצרים - הכל מהכל
@@ -2783,7 +2783,7 @@ Description: המוצרים שלנו - הכל מהכל
 
 ## עגלת קניות
 
-URL: https://-5e739c1d.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - הכל מהכל
@@ -3034,7 +3034,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-5e739c1d.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - הכל מהכל
@@ -3471,7 +3471,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-5e739c1d.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - הכל מהכל
@@ -3729,7 +3729,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-5e739c1d.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - הכל מהכל
@@ -4142,7 +4142,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-5e739c1d.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - הכל מהכל
@@ -4417,7 +4417,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-5e739c1d.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - הכל מהכל
@@ -4721,7 +4721,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-5e739c1d.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - הכל מהכל
 
 פרטי המוצר - הכל מהכל
@@ -4974,7 +4974,7 @@ Description: פרטי המוצר - הכל מהכל
 
 ## מוצרים
 
-URL: https://-5e739c1d.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - הכל מהכל
 
 מוצרים - הכל מהכל
@@ -5251,7 +5251,7 @@ Description: מוצרים - הכל מהכל
 
 ## מדיניות פרטיות
 
-URL: https://-5e739c1d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5530,7 +5530,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-5e739c1d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5818,7 +5818,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-5e739c1d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -6125,7 +6125,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה - הכל מהכל
 
-URL: https://-5e739c1d.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפניתם אלינו! ההודעה שלכם התקבלה בהצלחה ב-הכל מהכל, פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים.
 
 תודה רבה - הכל מהכל
